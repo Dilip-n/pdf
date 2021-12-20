@@ -1,0 +1,20 @@
+{
+  "name": "fpdgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "minio": "^7.0.25",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1",
+    "pg-notify": "0.0.16",
+    "puppeteer": "^13.0.0"
+  }
+}
